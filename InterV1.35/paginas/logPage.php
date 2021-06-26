@@ -118,11 +118,11 @@ file.addEventListener('change', () => {
 </body>
 </html>
 
-<script src="../jquery/jquery.mask.js"></script>
+<!-- <script src="../jquery/jquery.mask.js"></script>
 
 <script>
     $(document).ready(function() {
         $('#cep').mask("00000-000");
     });
-</script>
+</script> -->
 
