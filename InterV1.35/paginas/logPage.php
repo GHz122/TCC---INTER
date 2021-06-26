@@ -14,7 +14,7 @@
                             <h2>Login</h2>
                             <input type="email" class="" placeholder="E-mail: " name="txEmail">
                             <input type="password" class="" id="senhaLogin" placeholder="Senha: " name="txSenha">
-                            <input type="submit" value="Entrar">
+                            <input name="entra" type="submit" value="Entrar">
                             <p class="signup">Não tem uma conta? <a href="#" onclick="toogleForm();">Cadastre-se aqui</a></p>
                         </form>    
                 </div>
@@ -70,7 +70,7 @@
                                         <option value="SE">SE</option>
                                         <option value="TO">TO</option>
                                     </datalist>
-                                    <input type="submit" value="Criar">
+                                    <input name="ok" type="submit" value="Criar">
                                     <p class="signup"> Já é um usuário?<a href="#" onclick="toogleForm();"> Login</a></p>
                         </form>
                     </div>
